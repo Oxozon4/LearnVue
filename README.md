@@ -1,1 +1,1 @@
-# Welcome to the repository with all my small React Projects. Enjoy :-)
+# Welcome to the repository with all my small Vue Projects. Enjoy :-)
